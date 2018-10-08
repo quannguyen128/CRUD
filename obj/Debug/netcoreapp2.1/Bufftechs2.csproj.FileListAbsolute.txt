@@ -1,0 +1,11 @@
+C:\APB PRO 2\Inclass\Bufftechs2\bin\Debug\netcoreapp2.1\Bufftechs2.deps.json
+C:\APB PRO 2\Inclass\Bufftechs2\bin\Debug\netcoreapp2.1\Bufftechs2.runtimeconfig.json
+C:\APB PRO 2\Inclass\Bufftechs2\bin\Debug\netcoreapp2.1\Bufftechs2.runtimeconfig.dev.json
+C:\APB PRO 2\Inclass\Bufftechs2\bin\Debug\netcoreapp2.1\Bufftechs2.dll
+C:\APB PRO 2\Inclass\Bufftechs2\bin\Debug\netcoreapp2.1\Bufftechs2.pdb
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.csprojAssemblyReference.cache
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.csproj.CoreCompileInputs.cache
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.AssemblyInfoInputs.cache
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.AssemblyInfo.cs
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.dll
+C:\APB PRO 2\Inclass\Bufftechs2\obj\Debug\netcoreapp2.1\Bufftechs2.pdb
